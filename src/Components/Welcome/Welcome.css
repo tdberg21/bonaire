@@ -1,0 +1,32 @@
+
+.Welcome-component {
+  /* font-family: 'Amatic SC', cursive; */
+  padding: 1rem;
+  margin: 0 auto;
+  background: black url(../../assets/group2.png) no-repeat fixed center;
+  min-height: 100vh;
+  background-size: cover;
+  color: #fff;
+
+}
+
+.welcoming-container {
+  min-height: 15vh;
+  margin: 17% auto;
+}
+
+.welcome-message {
+  font-size: 4rem;
+}
+
+.welcome-button {
+  background: none;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.welcome-button:hover {
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+}

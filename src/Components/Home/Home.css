@@ -1,0 +1,20 @@
+.header-section {
+  min-height: 10vh;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  padding-left: 2rem;
+}
+
+.nav {
+  color: #333;
+  text-decoration: none;
+  margin-left: 1rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.nav:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
